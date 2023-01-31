@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlcoolGasolina</string>
+    <string name="digite_o_pre_o_da_gasolina">Digite o preço da gasolina</string>
+    <string name="ex_5_50">Ex: 5.50</string>
+    <string name="digite_o_pre_o_do_lcool">Digite o preço do Álcool</string>
+    <string name="ex_3_90">Ex: 3.90</string>
+    <string name="calcular">Calcular</string>
+    <string name="esperando_valores">Esperando Valores</string>
+    <string name="melhor_ultilizar">Melhor Ultilizar:</string>
+    <string name="pre_o_lcool_3_90">Preço Álcool: 3.90</string>
+    <string name="pre_o_gasolina_5_30">Preço Gasolina: 5.30</string>
+    <string name="resultado_do_c_lculo_do_pre_o">Resultado do cálculo do preço</string>
+</resources>
